@@ -5,6 +5,7 @@ Ajustes para Klipper de la Ender 5 Plus con SKR 1.4 Turbo y TMC 2209
 
 ## Simplify3D v5.0 Macros:
 ```
+MESH_CONFIG X0=[build_min_x] Y0=[build_min_y] X1=[build_max_x] Y1=[build_max_y]
 START_PRINT EXTRUDER_TEMP=[extruder0_temperature] BED_TEMP=[bed0_temperature]
 ```
 ```
