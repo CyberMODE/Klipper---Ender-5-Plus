@@ -2,6 +2,7 @@
 
 Ajustes para Klipper de la Ender 5 Plus con SKR 1.4 Turbo y TMC 2209
 
+PAM https://github.com/HelgeKeck/pam
 
 ## Simplify3D v5.0 Macros:
 ```
